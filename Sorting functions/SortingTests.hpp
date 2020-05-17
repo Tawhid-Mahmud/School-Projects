@@ -1,10 +1,9 @@
-//
+// Mohammad Mahmud
+
 //  SortingTests.hpp
 //  SortTest
 //
-//  Created by Tiziana Ligorio on 11/6/18.
-//  Copyright © 2018 Tiziana Ligorio. All rights reserved.
-//
+
 
 #ifndef SortingTests_hpp
 #define SortingTests_hpp
